@@ -74,7 +74,8 @@ astrbot_xjj_video/
 ├── metadata.yaml        # 插件元数据
 ├── _conf_schema.json    # 配置文件模式
 ├── requirements.txt     # 依赖包列表
-└── README.md           # 说明文档
+├── README.md           # 说明文档
+└── logo.png            # 插件logo
 ```
 
 ### 依赖包
