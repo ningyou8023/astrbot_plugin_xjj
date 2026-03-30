@@ -1,0 +1,26 @@
+{
+    "api_url": {
+        "description": "小姐姐视频API接口地址",
+        "type": "string",
+        "hint": "请输入有效的小姐姐视频API地址",
+        "default": "https://api.nycnm.cn/API/video.php"
+    },
+    "api_key": {
+        "description": "API密钥（如果需要）",
+        "type": "string",
+        "hint": "某些API可能需要密钥验证",
+        "default": ""
+    },
+    "video_type": {
+        "description": "视频类型",
+        "type": "string",
+        "hint": "指定返回的视频格式类型",
+        "default": "mp4"
+    },
+    "timeout": {
+        "description": "API请求超时时间（秒）",
+        "type": "int",
+        "hint": "设置API请求的超时时间，建议10-30秒",
+        "default": 30
+    }
+}
