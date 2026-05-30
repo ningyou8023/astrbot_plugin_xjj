@@ -44,7 +44,7 @@
 
 - **api_url**: 小姐姐视频API接口地址
   - 类型: `string`
-  - 默认值: `https://api.nycnm.cn/API/video.php`
+  - 默认值: `https://api.nycnm.cn/api/v2/video`
   - 说明: 设置获取随机小姐姐视频的API接口地址
 
 - **api_key**: API密钥（如果需要）

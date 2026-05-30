@@ -3,7 +3,7 @@
         "description": "小姐姐视频API接口地址",
         "type": "string",
         "hint": "请输入有效的小姐姐视频API地址",
-        "default": "https://api.nycnm.cn/API/video.php"
+        "default": "https://api.nycnm.cn/api/v2/video"
     },
     "api_key": {
         "description": "API密钥（如果需要）",
